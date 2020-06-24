@@ -1,4 +1,8 @@
 # UniMelb Lib
+
+## Contribution
+Please do let me know if you want to attribute this repository
+
 ## Description
 Provides Lecture Slides, Tutorials, Workshops and Past Exams from previous studies. 
 
